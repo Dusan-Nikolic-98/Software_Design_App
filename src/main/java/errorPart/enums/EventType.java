@@ -1,0 +1,6 @@
+package errorPart.enums;
+
+public enum EventType {
+    CANNOT_ADD_CHILD_TO_LEAF, CANNOT_REMOVE_ROOT, NAME_EMPTY, PROJECT_NOT_SELECTED,DIAGRAM_NOT_SELECTED;
+
+}
