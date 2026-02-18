@@ -11,6 +11,6 @@ Key Features
 * Project Persistence: Save/load diagram projects in native format
 
 * Some of the Design Patterns used:
-- Model-View-Controller (MVC) architecture
-- Observer pattern for real-time updates
-- Factory Method for diagram element creation
+  - Model-View-Controller (MVC) architecture
+  - Observer pattern for real-time updates
+  - Factory Method for diagram element creation
