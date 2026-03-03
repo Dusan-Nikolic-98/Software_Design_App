@@ -1,5 +1,3 @@
-Dušan Nikolić
-
 UML Diagram Designer
 A desktop application for creating, editing, and managing UML diagrams with template support, built using Java and following software design best practices.
 
